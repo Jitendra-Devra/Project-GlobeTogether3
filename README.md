@@ -1,5 +1,5 @@
 # Globe Together 🌍✨
-<this project is under progress>
+<-this project is under progress->
 
 Globe Together is a dynamic web application that connects travel enthusiasts with like-minded individuals to plan and embark on memorable journeys together. Whether you're seeking a travel buddy for your next adventure or looking to join a group trip, Globe Together is your one-stop solution.
 
